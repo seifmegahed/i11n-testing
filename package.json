@@ -1,6 +1,6 @@
 {
-  "name": "i11n-testing",
-  "description": "Playground to test i11n in Next.js. (EN, AR)",
+  "name": "i18n-testing",
+  "description": "Playground to test i18n in Next.js. (EN, AR)",
   "version": "0.1.0",
   "private": false,
   "type": "module",
