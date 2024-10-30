@@ -1,0 +1,14 @@
+{
+  "home-page": {
+    "title": "Hello",
+    "description": "Welcome to the home page"
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "Welcome to the projects page"
+  },
+  "nav-bar": {
+    "home": "Home",
+    "projects": "Projects"
+  }
+}
