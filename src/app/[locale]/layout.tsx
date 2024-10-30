@@ -30,7 +30,7 @@ export default async function LocaleLayout({
     <html lang={locale} dir={direction}>
       <body>
         <NextIntlClientProvider messages={messages}>
-          <div className="h-screen w-screen">
+          <div className="h-screen w-screen bg-background text-primary">
             <Nav />
             <div className="p-4">{children}</div>
           </div>
